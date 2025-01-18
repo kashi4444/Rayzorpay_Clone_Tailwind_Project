@@ -1,0 +1,1 @@
+This is Discord Clone Project made using html, css and tailwind
